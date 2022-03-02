@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Basic&family=Cabin&family=Parisienne&display=swap");
+
+.eFont {
+  font-family: "Parisienne", cursive;
+}
+
+.tFont {
+  font-family: "Basic", sans-serif;
+}
+
+.cFont {
+  font-family: "Cabin", sans-serif;
+}
+
+.contenedorcenter {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.contenedor {
+    height: auto;
+}
