@@ -1,3 +1,11 @@
 # Invitacion Digital
 Invitación digital de boda
-Hecho con HTML, CSS y Bootstrap 5
+
+## Construido con
+* HTML
+* CSS
+* Bootstrap 5
+* Javascript
+
+## Autor
+* **Mariel Mata Cardona** 
